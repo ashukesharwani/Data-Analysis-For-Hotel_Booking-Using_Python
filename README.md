@@ -26,11 +26,15 @@ The major subjects of this research are an investigation of hotel booking cancel
 
  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/94cf93f8-de2b-479a-8555-955bafa3b9f6">
 
- The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
+ The reservation statistics count between hotels that were canceled and hotels that were not canceled are displayed in the accompanying bar graph. It is clear that a sizable percentage of reservations remain uncanceled. The hotel's revenue is significantly impacted by the 37% of customers who still cancel their bookings.
 
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/a2b547d7-883f-45ef-8855-23673e9db16b">
   
+  The graph above compares hotels in resort areas and those in cities. City hotels have more reservations than resort hotels. It's probable that resort hotels cost more than hotels in urban areas.
+  
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/37ed172c-3ed8-4272-9e7b-63d3c8688a31">
+  
+  The line graph above demonstrates that, on certain days, a city hotel's average daily rate is less than a resort hotel's, and that, on other days, it is even less. It goes without saying that resort hotel costs may increase during the weekend and throughout the holidays.
   
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/43dff21b-dcf7-4817-8dce-dcb8cead5435">
   
