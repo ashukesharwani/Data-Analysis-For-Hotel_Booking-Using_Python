@@ -16,7 +16,10 @@ The major subjects of this research are an investigation of hotel booking cancel
  2. How can we reduce the number of hotel reservations that get canceled?
  3. How will hotels be supported in choosing their prices and marketing strategies?
 
-### Hypothesis
+### Hypothesis:
+1. When prices are higher, there are more cancellations.
+2. Customers tend to cancel more frequently when there is a long waiting list.
+3. The majority of customers use traditional travel agencies to book their travel.
 
 ## Analysis and findings:
 1. **MAIN ACTIVITY**:
