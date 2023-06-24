@@ -12,8 +12,9 @@ Hotels in cities and resorts have experienced significant cancellation rates rec
 The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that don't affect their business or yearly income creation.
 
 ### Research Question:
- 1. ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
- 2. FIREBASE REALTIME DATABASE
+ 1. What are the more important influencing variables for canceled hotel reservations?
+ 2. How can we reduce the number of hotel reservations that get canceled?
+ 3. How will hotels be supported in choosing their prices and marketing strategies?
 
 ### Hypothesis
 
