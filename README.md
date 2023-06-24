@@ -6,6 +6,7 @@
 ### Business problem:
 
 Hotels in cities and resorts have experienced significant cancellation rates recently. As a result, each hotel is currently dealing with a variety of problems, such as decreased revenues and less-than-optimum hotel room usage. As a result, our main objective is to provide a comprehensive business guide to handle this issue and minimize cancellation rates in order to boost the hotel's efficiency in producing income.
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/2a6d8f8d-27d8-47ec-8fc2-227bfb8a0207">
 
 The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that don't affect their business or yearly income creation.
 
@@ -25,7 +26,7 @@ The major subjects of this research are an investigation of hotel booking cancel
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
  
  <img src="https://user-images.githubusercontent.com/83163103/115995679-e86f9a80-a5f9-11eb-99fe-22af88fa6ca1.jpeg" width="300" height="500">
-  
+   
    
 2. **LOGIN & REGISTRATION**:
 
