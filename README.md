@@ -34,12 +34,20 @@ The major subjects of this research are an investigation of hotel booking cancel
 
   
 The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
-  
-<p><img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115997819-2ec8f780-a602-11eb-90c4-b40c5dc74717.jpeg" width="300" height="500">
-</p>
+  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/a2b547d7-883f-45ef-8855-23673e9db16b">
+  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/37ed172c-3ed8-4272-9e7b-63d3c8688a31">
 
+
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/43dff21b-dcf7-4817-8dce-dcb8cead5435">
+
+
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/74060313-93c1-400e-a88c-09a44c36b62c">
+
+
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/86556531-25a1-45a7-aa0e-1bf0e5bc7839">
+
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/187e1a0b-fe2a-44a1-b175-8c62eb69e237">
+<img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/e6fd84b1-eef0-460b-ad40-825d40798df3">
 
 3. **HOMEPAGE**:
 
