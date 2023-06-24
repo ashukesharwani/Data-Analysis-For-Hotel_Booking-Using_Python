@@ -27,7 +27,7 @@ The major subjects of this research are an investigation of hotel booking cancel
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
  
- <img src="https://user-images.githubusercontent.com/83163103/115995679-e86f9a80-a5f9-11eb-99fe-22af88fa6ca1.jpeg" width="300" height="500">
+ <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/94cf93f8-de2b-479a-8555-955bafa3b9f6">
    
    
 2. **LOGIN & REGISTRATION**:
