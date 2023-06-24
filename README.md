@@ -1,20 +1,23 @@
 # Hotel Booking Analysis
-# Medimate_Community
 <p align="center">
      <b>A community-based Blood and Medicine donation App built on Android Studio and Firebase Realtime Database.</b>
 </p>
-Medimate is an attempt to ease the process of blood and medical emergencies by connecting blood donors and drug vendors directly with people in need of blood and medicines. Medimate connects blood donors and drug vendors with recipients, without any intermediary such as blood banks and pharma stores, for an efficient and seamless process.
+Medimate is an attempt to ease the process of blood and medical emergencies by connecting blood donors and drug vendors directly with people in need of blood and medicines. Medimate connects blood donors and drug vendors with recipients, without any intermediaries such as blood banks and pharma stores, for an efficient and seamless process.
 
 
-### LANGUAGES USED:
- 1. JAVA
- 2. XML :FOR LAYOUT
+### Business problem:
 
-### TOOLS AND TECHNOLOGIES USED:
+Hotels in cities and resorts have experienced significant cancellation rates recently. As a result, each hotel is currently dealing with a variety of problems, such as decreased revenues and less-than-optimum hotel room usage. As a result, our main objective is to provide a comprehensive business guide to handle this issue and minimize cancellation rates in order to boost the hotel's efficiency in producing income.
+
+The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that don't affect their business or yearly income creation.
+
+### Research Question:
  1. ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
  2. FIREBASE REALTIME DATABASE
 
-## DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
+### Hypothesis
+
+## Analysis and findings:
 1. **MAIN ACTIVITY**:
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
