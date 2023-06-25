@@ -48,12 +48,22 @@ Now, let’s see which country has the highest number of reservations canceled. 
   
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/86556531-25a1-45a7-aa0e-1bf0e5bc7839">
   
+### Hotel Reservation Platform :
+
+1.  Online TA        0.474377%
+2.  Offline TA/TO    0.203193%
+3.  Groups           0.166581%
+4.  Direct           0.104696%
+5.  Corporate        0.042987%
+6.  Complementary    0.006173%
+7.  Aviation         0.001993%
+  
   Let’s check the area from where guests are visiting the hotel and making reservations. Is it coming from Direct groups, Online or Offline Travel agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4 percent of clients book hotels directly by visiting them and making reservations.
   
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/187e1a0b-fe2a-44a1-b175-8c62eb69e237">
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/e6fd84b1-eef0-460b-ad40-825d40798df3">
   
-  As seen in the graph, reservations are cancelled when the average daily rate is higher than when they are not cancelled. It clearly proves all the above analysis: that a higher price leads to higher cancellations.
+  As seen in the graph, reservations are canceled when the average daily rate is higher than when they are not canceled. It clearly proves all the above analysis: that a higher price leads to higher cancellations.
 
   ### Suggestions:
   
