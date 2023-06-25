@@ -7,7 +7,7 @@
 
 Hotels in cities and resorts have experienced significant cancellation rates recently. As a result, each hotel is currently dealing with a variety of problems, such as decreased revenues and less-than-optimum hotel room usage. As a result, our main objective is to provide a comprehensive business guide to handle this issue and minimize cancellation rates in order to boost the hotel's efficiency in producing income.
 
-The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that don't affect their business or yearly income creation.
+The major subjects of this research are an investigation of hotel booking cancellations as well as other reasons that affect their business or yearly income creation.
 
 <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/2a6d8f8d-27d8-47ec-8fc2-227bfb8a0207">
 
