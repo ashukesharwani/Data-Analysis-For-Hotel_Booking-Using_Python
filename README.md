@@ -36,11 +36,11 @@ The major subjects of this research are an investigation of hotel booking cancel
   
   The line graph above demonstrates that, on certain days, a city hotel's average daily rate is less than a resort hotel's, and that, on other days, it is even less. It goes without saying that resort hotel costs may increase during the weekend and throughout the holidays.
   
-  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/43dff21b-dcf7-4817-8dce-dcb8cead5435">
+  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/628105a5-be1b-4c6b-8fa6-b05037286e40">
 
   We have created the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations are highest in the month of August, whereas January is the month with the most canceled reservations.
   
-  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/74060313-93c1-400e-a88c-09a44c36b62c">
+  <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/7f9f40bb-a5f3-4538-b4e6-816acf93c7f1">
 
   This bar graph shows that cancellations are most common when prices are highest and least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
 
