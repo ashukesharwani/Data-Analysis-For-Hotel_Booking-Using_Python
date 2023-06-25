@@ -43,22 +43,23 @@ The major subjects of this research are an investigation of hotel booking cancel
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/7f9f40bb-a5f3-4538-b4e6-816acf93c7f1">
 
   This bar graph shows that cancellations are most common when prices are highest and least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
-
-Now, let’s see which country has the highest number of reservations canceled. The top country is Portugal, with the highest number of cancellations.
   
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/86556531-25a1-45a7-aa0e-1bf0e5bc7839">
   
+  Now, let’s see which country has the highest number of reservations canceled. The top country is Portugal, with the highest number of cancellations.
+
+  
 ### Hotel Reservation Platform :
 
-1.  Online TA        0.474377%
-2.  Offline TA/TO    0.203193%
-3.  Groups           0.166581%
-4.  Direct           0.104696%
-5.  Corporate        0.042987%
-6.  Complementary    0.006173%
-7.  Aviation         0.001993%
+1.  Online TA        &emsp;     0.474377% 
+2.  Offline TA/TO    &emsp;     0.203193% 
+3.  Groups           &emsp;     0.166581%
+4.  Direct           &emsp;     0.104696%
+5.  Corporate        &emsp;     0.042987%
+6.  Complementary    &emsp;     0.006173%
+7.  Aviation         &emsp;     0.001993%
   
-  Let’s check the area from where guests are visiting the hotel and making reservations. Is it coming from Direct groups, Online or Offline Travel agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4 percent of clients book hotels directly by visiting them and making reservations.
+  Let's look at the region from which visitors to the hotel and bookings originate. Is it coming from offline or online travel agents, direct groups, or both? 16% of the customers are groups, while 47% come via online travel agencies. Only 10% of customers make direct reservations at hotels by going there in person.
   
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/187e1a0b-fe2a-44a1-b175-8c62eb69e237">
   <img src="https://github.com/ashukesharwani/Data-Analysis-For-Hotel_Booking-Using_Python/assets/83163103/e6fd84b1-eef0-460b-ad40-825d40798df3">
